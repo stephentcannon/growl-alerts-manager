@@ -1,0 +1,9 @@
+{
+  "name": "growl-alerts-manager",
+  "description": "a package that makes it easy to use bootstrap-3 growl alerts",
+  "homepage": "https://github.com/stephentcannon/growl-alerts-manager",
+  "author": "EtherPOS (http://www.etherpos.com)",
+  "version": "0.0.1",
+  "git": "https://github.com/stephentcannon/growl-alerts-manager",
+  "packages": {}
+}
